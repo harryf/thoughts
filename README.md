@@ -1,0 +1,4 @@
+thoughts
+========
+
+mainly work related...
