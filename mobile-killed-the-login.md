@@ -3,7 +3,7 @@ Logins are Dead, and Mobile Killed Them
 
 Logging in with a username and password is dead; Mobile killed it.
 
-Why is it dead? Because you and your phone are _one thing_; a single organism. You get [extremely nervous](http://en.wikipedia.org/wiki/Nomophobia) when you're parted from it. It is your _precious_; once you get past the lock screen, you are intimately connected to it. And [83% of young people](http://www.onlineschools.org/visual-academy/always-connected/) go to bed with their phone. Some older ones too. This is _not_ a shared device or even that thing you leave lying around on your desk unattended.
+Why is it dead? Because you and your phone are _one thing_; a single organism. You get [extremely nervous](http://en.wikipedia.org/wiki/Nomophobia) when you're parted from it. It is your _precious_; once you get past the lock screen, you are intimately connected to it. And [83% of young people](http://www.onlineschools.org/visual-academy/always-connected/) go to bed with their phone. Some older ones too. This is _not_ a shared device or even that thing you leave lying around on your desk unattended. If you happen to catch someone fiddling around with it, you're liable to get testy. So all additional layers of login, beyond the lock screen, are at best superfluous and at worst, a reason to delete apps.
 
 And logins are dead because typing a username and password on mobile is both a _horrible_ and _unsafe_ experience. Horrible because smartphones are not good devices for accurate typing and unsafe because people use their phone in public spaces like a bus where someone may be looking over your shoulder.
 
