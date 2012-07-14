@@ -43,7 +43,7 @@ A Graph of Approval
 
 One of the inspirations which led to this design was [Bump](https://bu.mp/); the idea that we could pass authorization from person to person much like Bump allows you to pass contact details. Why? Because this is a great match to our typical sales process; pitch product face-to-face, sign contract, activate phone.
 
-In practice, when we train our sales people, we activate their phones with "sales super powers". Then, whenever they _sell_ our product, they become the "kingmaker", activating the customer right from our app, via SMS or E-Mail. We're even happy for the customer to forward the activation message to their own employees. If there's any trouble, such as lost phone or employee leaving, the customer just requests a new activation message, resetting all devices that were previously activated.
+In practice, when we train our sales people, we activate their phones with "sales super powers". Then, whenever they _sell_ our product, they become the "kingmaker", activating the customer right from our app, via SMS or E-Mail. We're even happy for the customer to forward the activation message to their own employees, allowing them to activate multiple devices. If there's any trouble, such as lost phone or employee leaving, the customer just requests a new activation message, resetting all devices that were previously activated.
 
 Side note: why didn't we use Bump after all? A little too freaky for our sales to work with and project deadlines which made tried and tested tools like E-Mail and SMS very attractive.
 
@@ -74,4 +74,4 @@ Right now I should probably invent a smart name for it (oh AJAX, I'm still bitte
 
 And without getting _too_ far out there, I think there is some room here to shake up this thing we've been calling the "identity layer".
 
-Questions? @hfuecks
+Questions? @hfuecks and see [discussion on Hacker News](http://news.ycombinator.com/item?id=4240407)
