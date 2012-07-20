@@ -21,7 +21,7 @@ Still with me?
 We all hate logins
 ------------------
 
-local.ch hates them because they cause adminstration costs. Our customers hate them because they're busy, busy people. Busy running their businesses with no time for "What was my password again?". Engineers and product managers hate them because you have to build lots of sucky forms which are never quite are as usuable as they should be and lead to missed deadlines.
+local.ch hates them because they cause adminstration costs. Our customers hate them because they're busy, busy people. Busy running their businesses with no time for "What was my password again?". Engineers and product managers hate them because you have to build lots of sucky forms which are never quite as usuable as they should be and lead to missed deadlines.
 
 So we got rid of them. No username / password login required to access this product. And we chose Facebook / Twitter / OAuth right? Nope. It's a shitty position to be in when you have this large, deaf middle-man between you and your customers. Period.
 
