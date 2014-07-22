@@ -30,7 +30,7 @@ Among those 13% were a few that we using the app every day. Many times a day in 
 
 ### Spam is Good
 
-Anyone is Mobile is terrified of spamming their users, especially in the app space where getting them to download your app in the first place is so hard. But with Hoi, as a fun side project, we had nothing to lose so with the world cup soccer games in progress - like [Switzerland's amazing win over Equador](http://www.20min.ch/wm2014/schweizer-news/story/22860365) we had something to make some noise about. So we sent a few push messages out to the entire user base cheering the game.
+Anyone is Mobile is terrified of spamming their users, especially in the app space where getting them to download your app in the first place is so hard. But with Hoi, as a fun side project, we had nothing to lose so with the world cup soccer games in progress - like [Switzerland's amazing win over Equador](http://www.20min.ch/wm2014/schweizer-news/story/22860365) - we had something to make some noise about. So we sent a few push messages out to the entire user base cheering the game.
 
 The reaction? Only positive...
 
