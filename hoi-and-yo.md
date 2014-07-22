@@ -13,7 +13,7 @@ A little late night hacking, with awesome [parse.com](http://parse.com) at our b
 
 ### Headlines
 
-Thanks to a little luck and hard work we managed to get Hoi some attention on [NZZ.ch](http://www.nzz.ch/mehr/digital/hoi-app-android-ios-yo-moritz-adler-aaron-scheib-1.18334265) and [20minutes.ch](http://www.20min.ch/digital/news/story/15499651), two of the bigger German speaking online news channels, plus a morning slot and [Radio NRJ Zürich](http://www.energy.ch/zurich/). Enough attention to seed our social experiment with enough users to see whether it would light up or not.
+Then, thanks some finely crafted mails and tweets and a little luck, we managed to get Hoi some attention on [NZZ.ch](http://www.nzz.ch/mehr/digital/hoi-app-android-ios-yo-moritz-adler-aaron-scheib-1.18334265) and [20minutes.ch](http://www.20min.ch/digital/news/story/15499651), two of the bigger German speaking online news channels, plus a morning slot and [Radio NRJ Zürich](http://www.energy.ch/zurich/). Enough attention to seed our social experiment with enough users to see whether it would light up or not.
 
 
 ### Is it a fad?
