@@ -15,14 +15,13 @@ A little late night hacking, with awesome [parse.com](http://parse.com) at our b
 
 Then, thanks some finely crafted mails and tweets and a little luck, we managed to get Hoi some attention on [NZZ.ch](http://www.nzz.ch/mehr/digital/hoi-app-android-ios-yo-moritz-adler-aaron-scheib-1.18334265) and [20minutes.ch](http://www.20min.ch/digital/news/story/15499651), two of the bigger German speaking online news channels, plus a morning slot and [Radio NRJ Zürich](http://www.energy.ch/zurich/). Enough attention to seed our social experiment with enough users to see whether it would light up or not.
 
-
-### Is it a fad?
-
-From talking to people, once they get the joke the reaction tends to be "Well that's going to die out pretty fast". The retention rates we're seeing would seem to correspond with that; 14 days after the first press round we were down to around just 13% of the initial user base. Buuuut... We noticed something else at the same time.
-
 ### It's alive!
 
 From the initial press spurt of around 300 intalls, we're now up to over 800 installs, right now adding around 40-60 new installs a day with little external pushing, just the invite functionality within the app. Obviously small numbers and very early stages in a country that has only 7 million population, but still encouraging. Left to itself, it seems Hoi might actually continue to grow at a small but steady rate at least.
+
+### But is it a fad?
+
+From talking to people, once they get the joke the reaction tends to be "Well that's going to die out pretty fast". The retention rates we're seeing would seem to correspond with that; 14 days after the first press round we were down to around just 13% of the initial user base. Buuuut... We noticed something else at the same time...
 
 ### Power users
 
