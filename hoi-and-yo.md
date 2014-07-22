@@ -36,7 +36,7 @@ The reaction? Only positive...
 
 ### Insane Push Message Opening Rates
 
-Not only were we unable to find any correlation between Play Store app uninstall rates and the broadcast messages, we had an insanely high (least relative to say ad click through rates) push message opening rates of between 30% and 40% of all the push messages we sent. Not only that, the "spam" had the effect of re-activing the user base, encouraging them to interact more with their friends on the network .
+Not only were we unable to find any correlation between Play Store app uninstall rates and the broadcast messages, we had an insanely high (least relative to say ad click through rates) push message opening rates of between 30% and 40% of all the push messages we sent. Not only that, the "spam" had the effect of re-activating the user base, encouraging them to interact more with their friends on the network .
 
 ### The future of push messages
 
