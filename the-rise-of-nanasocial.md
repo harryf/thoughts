@@ -7,9 +7,9 @@ From what I learned as a Yo user and then from [copying Yo in Switzerland](https
 
 ### More than meets the eye
 
-As a user, you quickly discover that, despite no ability to modify the message payload, it is in fact a powerful messaging tool. Sending someone you care about a "Yo" at 7am or at 11pm is an intimate experience. Sending a work colleague that's waiting to start a meeting with you a "Yo" 1 minute before it starts tells them you haven't forgotten. In fact some say there are [30 types of Yo](http://www.businessinsider.com/the-yo-app-is-going-viral--here-are-30-types-of-yos-2014-6).
+As a user, you quickly discover that, despite no ability to modify the message payload, Yo is in fact a powerful messaging tool. Sending someone you care about a "Yo" at 7am or at 11pm is an intimate experience. Sending a work colleague that's waiting to start a meeting with you a "Yo" 1 minute before it starts tells them you haven't forgotten. In fact some say there are [30 types of Yo](http://www.businessinsider.com/the-yo-app-is-going-viral--here-are-30-types-of-yos-2014-6).
 
-What makes Yo work as a form of communication is not _what's_ being said, but _when_ it's being said and _who_ it's being said to. You might argue [Swawm](https://www.swarmapp.com/) does the same but adds location to the context-mix.
+What makes Yo work as a form of communication is not _what's_ being said, but _when_ it's being said and _who_ it's being said to. You might argue [Swawm](https://www.swarmapp.com/) does similar but adds the missing dimension - location - to the context-mix.
 
 
 ### The 1% Rule
@@ -33,4 +33,6 @@ There is no need to solidify this thing around building up numbers of friends or
 
 ### Nanosocial is the future of push advertising
 
-Meanwhile Yo is [this close](http://arstechnica.com/business/2014/07/pointless-yo-app-now-alerts-israelis-to-rocket-attacks/) to figuring out how to make push messaging an effective tool for broadcasting. By combining the tool with a specific context, such as [a sporting event](http://www.ibtimes.com/yo-app-world-cup-feature-alerts-users-when-goals-are-scored-1608964), we have the perfect mix for advertisers; opt-in instead of spam and open rates as [we learned](https://github.com/harryf/thoughts/blob/master/hoi-and-yo.md) of 30-40% 
+Meanwhile Yo is [this close](http://arstechnica.com/business/2014/07/pointless-yo-app-now-alerts-israelis-to-rocket-attacks/) to figuring out how to make push messaging an effective tool for broadcasting.By combining the tool with a specific context, such as [a sporting event](http://www.ibtimes.com/yo-app-world-cup-feature-alerts-users-when-goals-are-scored-1608964), we have the perfect mix for advertisers; opt-in instead of spam and open rates as [we learned](https://github.com/harryf/thoughts/blob/master/hoi-and-yo.md) of 30-40%
+
+What's great about this is it requires almost zero knowledge about the recipients themselves. No need build up complex demographic data about a users history, preferences, big data and so on. We just need a broad idea of their current context and a model that allows users to opt-in to what makes sense to them.
