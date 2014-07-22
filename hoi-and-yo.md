@@ -5,7 +5,7 @@ The meteoric success of Yo has been [applauded by some](http://www.salon.com/201
 
 ### Like Rocket Internet but Swiss...
 
-With some friends we were looking for [something funny](http://www.fastcompany.com/3032394/hit-the-ground-running/spotifys-design-lead-on-why-side-projects-should-be-stupid) as a side project and hatched on the plan to redo Yo, but for Switzerland. The word "Hoi" is used by many here, especially in the Zürich area of the country as a form of informal greeting, so we took that as the name of our app.
+With [some friends](https://twitter.com/hfuecks/lists/hoi-labs) we were looking for [something funny](http://www.fastcompany.com/3032394/hit-the-ground-running/spotifys-design-lead-on-why-side-projects-should-be-stupid) as a side project and hatched on the plan to redo Yo, but for Switzerland. The word "Hoi" is used by many here, especially in the Zürich area of the country as a form of informal greeting, so we took that as the name of our app.
 
 ### Technical details
 
