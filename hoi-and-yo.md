@@ -43,7 +43,7 @@ From my [day job](http://ch.linkedin.com/pub/harry-fuecks/4/224/64b) where I've 
 
 [Hoi](http://gethoi.ch) changes that. And judging from their experiments with [Product Hunt](https://medium.com/@YoAppStatus/yo-developers-api-e7f2f0ec5c3c) the Yo team has reached a similar conclusion. __Something__ about this approach to messaging really resonates with users and brings them to __opt-in__ for pushes rather than deleting the app. We're close to the right UI / experience mix to make push messages an experience users __want__.
 
-Welcome to the world of [nanosocial](https://github.com/harryf/thoughts/blob/master/the-rise-of-nanasocial.md).
+Welcome to the world of [nanosocial](https://github.com/harryf/thoughts/blob/master/the-rise-of-nanosocial.md).
 
 
 
