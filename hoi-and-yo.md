@@ -7,7 +7,7 @@ The meteoric success of Yo has been [applauded by some](http://www.salon.com/201
 
 With some friends we were looking for [something funny](http://www.fastcompany.com/3032394/hit-the-ground-running/spotifys-design-lead-on-why-side-projects-should-be-stupid) as a side project and hatched on the plan to redo Yo, but for Switzerland. The word "Hoi" is used by many here, especially in the Zürich area of the country as a form of informal greeting, so we took that as the name of our app.
 
-#### Technical details
+### Technical details
 
 A little late night hacking, with awesome [parse.com](http://parse.com) at our back, and pretty soon we had apps out for [Android](https://play.google.com/store/apps/details?id=com.iphonso.hoi) and [iOS](https://itunes.apple.com/ch/app/hoi/id893256702?l=en&mt=8) plus a [website](http://gethoi.ch) running on [NodeJitsu](http://nodejitsu.com/).
 
@@ -19,6 +19,10 @@ Thanks to a little luck and hard work we managed to get Hoi some attention on [N
 ### Is it a fad?
 
 From talking to people, once they get the joke the reaction tends to be "Well that's going to die out pretty fast". The retention rates we're seeing would seem to correspond with that; 14 days after the first press round we were down to around just 13% of the initial user base. Buuuut... We noticed something else at the same time.
+
+### It's alive!
+
+From the initial press spurt of around 300 intalls, we're now up to over 800 installs, right now adding around 40-60 new installs a day with little external pushing, just the invite functionality within the app. Obviously small numbers and very early stages in a country that has only 7 million population, but still encouraging. Left to itself, it seems Hoi might actually continue to grow at a small but steady rate at least.
 
 ### Power users
 
