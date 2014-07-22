@@ -1,7 +1,7 @@
 What we learnt from Yo ... by copying it
 -----
 
-The meteoric success of Yo has been [applauded by some](http://www.salon.com/2014/06/18/the_genius_of_extreme_internet_minimalism_an_app_that_just_says_yo/), rewarded by others and left [many agape](http://www.fastcompany.com/3032189/awful-or-awesome/is-the-yo-app-a-sign-of-startup-apocalypse-or-a-genius-hyper-simple-messagi), wondering if it's all just a joke.
+The meteoric success of Yo has been [applauded by some](http://www.salon.com/2014/06/18/the_genius_of_extreme_internet_minimalism_an_app_that_just_says_yo/), [rewarded by others](http://venturebeat.com/2014/06/23/yo-that-stupidly-simple-messaging-app-now-has-a-million-users/) and left [many agape](http://www.fastcompany.com/3032189/awful-or-awesome/is-the-yo-app-a-sign-of-startup-apocalypse-or-a-genius-hyper-simple-messagi), wondering if it's all just a joke.
 
 ### Like Rocket Internet but Swiss...
 
