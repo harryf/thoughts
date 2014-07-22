@@ -1,7 +1,9 @@
 The Rise of Nanosocial
 ----------------------
 
-From what I learned as a Yo user and then from [copying Yo in Switzerland](https://github.com/harryf/thoughts/blob/master/hoi-and-yo.md), I'm going to come out and say it. **Yo is a game changer for social**.
+From what I learned as a Yo user and then from [copying Yo in Switzerland](https://github.com/harryf/thoughts/blob/master/hoi-and-yo.md), I'm going to come out and say it...
+
+**Yo is a game changer for social**.
 
 ### More than meets the eye
 
