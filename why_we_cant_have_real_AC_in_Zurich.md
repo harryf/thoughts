@@ -1,5 +1,7 @@
 **TLDR:** in 1986 Zurich banned comfort AC as wasteful, noisy and ugly ... but not _directly_ as a measure to protect the environment. Today we either suffer the heat or run wheezy hose-out-the-window boxes that cool the pigeons more than the room. Sweating through heatwaves is therefore considered efficient Swiss character building...
 
+BTW if you disagree, feel something here should be corrected or generally want to rant about air conditioning, you'll [find me every Thursday at ROBIN's in Niederdorf doing comedy](https://inyourfacecomedy.ch/comedybrew/) ;)
+
 # Why Zurich Doesn’t Have Widespread Air Conditioning
 
 Ever wonder why Zurich doesn't have proper air conditioning? Why most apartments don't even have the option? Most people think it's just because "it's better for the environment." But the real story goes way deeper - and it's *partly thanks politicians in the 1980s who thought AC units were ugly*...
